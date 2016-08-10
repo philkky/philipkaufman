@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /philipkaufman
+exclude: ['readme.md']
